@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('AwesomeProject', () => FlatListBasics);
 ```
 
-If you want to render a set of data broken into logical sections, maybe with section headers, then a `SectionList` is the way to go.
+如果你想要渲染的数据分为若干个部分，每个部分可能有一个表头，那么一个 `SectionList` 就是合适的选择。
 
 ```ReactNativeWebPlayer
 import React, { Component } from 'react';
